@@ -1,0 +1,12 @@
+# flutter_native_splash.yaml
+flutter_native_splash:
+  background_image: "assets/splash1.jpg"
+  #color: "42A5F5"
+  fill: true
+  android: true
+  #web: true
+
+  image: "assets/logo.png"
+  branding: "assets/monitoring.png"
+
+  branding_mode: bottom
